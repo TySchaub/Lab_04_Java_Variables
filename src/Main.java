@@ -41,6 +41,7 @@ public class Main {
         double shoeSize = 12.5;
         String fullName = "Ty Jayson Schaub";
         String favColor = "Black";
+        String favFood = "Pasta";
 
     }
 }
