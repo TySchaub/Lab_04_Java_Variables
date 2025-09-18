@@ -40,7 +40,7 @@ public class Main {
         int numPeopleInFamily = 5;
         double shoeSize = 12.5;
         String fullName = "Ty Jayson Schaub";
-
+        String favColor = "Black";
 
     }
 }
